@@ -8,7 +8,7 @@
 // ============================================
 
 // Ganti nomor ini dengan nomor WhatsApp admin (format: 6281234567890)
-const ADMIN_WHATSAPP = "625124599123";
+const ADMIN_WHATSAPP = "6285124599123";
 
 // ============================================
 // DATA PRODUK
