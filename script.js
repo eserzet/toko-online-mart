@@ -178,7 +178,7 @@ function formatPrice(price) {
 
 // Format pesan WhatsApp
 function formatWhatsAppMessage(product, quantity, total, address) {
-    return `Halo admin NB Mart, saya ingin membeli ${product.name} sebanyak ${quantity}. Berikut alamat saya: ${address}.`;
+    return `Asalamualaikum Admin NB Mart, Saya Dari Website:https://toko-online-nb-mart.netlify.app/, Ingin Membeli ${product.name} Sebanyak ${quantity}. Berikut Alamat Saya: ${address}.`;
 }
 
 // Validasi input
